@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IMDBfeedback</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="feedback">
+        <item>good</item>
+        <item>best</item>
+        <item>satisfied</item>
+        <item>not good</item>
+    </string-array>
+    <string name="title_activity_thank_you">ThankYouActivity</string>
+    </resources>
